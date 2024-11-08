@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "564717072503",
+    "project_id": "expenses-graduation-project",
+    "storage_bucket": "expenses-graduation-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564717072503:android:c0a544d633c5089a8d9672",
+        "android_client_info": {
+          "package_name": "com.example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMh1pZqcZri9Ay-RJCYuic8R22X_u_mZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564717072503:android:c83e18485d7465178d9672",
+        "android_client_info": {
+          "package_name": "com.example.expenses_graduation_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMh1pZqcZri9Ay-RJCYuic8R22X_u_mZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
